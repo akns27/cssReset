@@ -11,9 +11,6 @@ html {
   line-height : 1.15; /*기본 행간 높이*/
 }
 
-/* h, p{
-  margin: 8px;
-} */
 
 li, a{
   text-decoration: none;/*링크 클릭하면 언더라인 생기는거 없어기*/
